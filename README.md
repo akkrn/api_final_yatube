@@ -1,7 +1,7 @@
 <div><a href="https://github.com/akkrn/api_final_yatube/blob/main/README-rus.md" ><img alt="ru" src="https://img.shields.io/badge/%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F-%D0%BD%D0%B0%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC-white"/></a></div>
 <details open><summary><h2>📚 Description</h2></summary>
 
-This project is a fully-featured API for [this service](https://github.com/akkrn/hw05_final) . With it you can create, modify your posts, read other people's posts, you can also comment on them. Subscribe to interesting authors and join interest groups
+This project is a fully-featured API for [this service](https://github.com/akkrn/hw05_final). With it you can create, modify your posts, read other people's posts, you can also comment on them. Subscribe to interesting authors and join interest groups
 
 ### Example of using the API:
 Once the project is up and running, you can check out the API documentation at: http://127.0.0.1:8000/redoc/
